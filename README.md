@@ -69,13 +69,8 @@ Special thanks to the amazing open-source community and contributors who’ve ma
 
 ### 🚀 **Start Your Machine Learning Journey Today!**
 Let’s dive in and become ML experts in just 30 days! 🎉
-```
 
-## 📝 License
-
-This project is open source and available under the MIT License.📝
-
----
+###📝 License :-This project is open source and available under the MIT License.📝
 
 ## 👨‍💻 Developer Information
 
@@ -87,7 +82,6 @@ This project is open source and available under the MIT License.📝
 
 ![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
 
----
 
 **Happy Learning!** 🎉
 
